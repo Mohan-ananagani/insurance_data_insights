@@ -1,0 +1,1 @@
+this gives the overview of end to end project of sql considering insurance data
